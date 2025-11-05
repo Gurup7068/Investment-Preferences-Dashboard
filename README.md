@@ -67,11 +67,15 @@ Support data-driven financial recommendations and strategies.
 📽️ Demo & Links
 
 🔗 YouTube Video: https://youtu.be/NyRIgTlIoPc?si=tgyQ9z-HBrjmUaUP
+
 📸 Instagram Reel: https://www.instagram.com/reel/DQqhTQUDHLZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
 📧 Contact: gurup7068@gmail.com
 
 🧠 Author
 
 Guruprasad H
+
 Data Analyst | Power BI Developer
+
 GitHub Profile: github.com/Gurup7068
